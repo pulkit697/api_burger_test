@@ -1,0 +1,20 @@
+{
+    "burgers": [
+        {
+            "id":0,
+            "name": "Trinute Burger",
+            "restuarant": "Honest Burgers",
+            "web": "www.hosnestburgers.com",
+            "description": "A mouth-watering honest beef burger",
+            "ingredients":["beef","american cheese","burger sauce","french mustard"]
+        },
+        {
+            "id":1,
+            "name":"Pulled Mooshie",
+            "restuarant":"Mooshies",
+            "web": "www.veganburger.org",
+            "description":"Spicy vegan burger with jackfruit",
+            "ingredients":["jackfruit","coleslaw","gutten free bun"]
+        }
+    ]
+}
